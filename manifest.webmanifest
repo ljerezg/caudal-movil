@@ -39,6 +39,19 @@
           "type": "image/png"
         }
       ]
+    },
+    {
+      "name": "Factura con Claude",
+      "short_name": "Factura",
+      "description": "Hacer una foto de una factura recibida para que Claude la lea y la mande a Caudal",
+      "url": "./?factura=1",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
     }
   ]
 }
